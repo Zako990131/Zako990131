@@ -26,7 +26,7 @@
     - 認識新朋友
     - 閱讀思維相關的紙本書籍
 
-- 🔎 **研究**
+- 🔎 **學習中**
     - 文章寫作
     - 證照考取
     - TOEIC證照考取
@@ -72,7 +72,7 @@ Here are my life experience ... 📌
     - Make new friends
     - Reading paper books likehood **Thinking**
 
-- 🔎 **Study**
+- 🔎 **Learning**
     - Reading & Writing 
     - CC certificate training
     - TOEIC certificate training
